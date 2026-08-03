@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommunityApplications>
+  <Profile>
+    Automation scripts for Unraid maintenance, backup, monitoring, and system administration.
+    Includes user scripts, cron jobs, and automation tools for Unraid servers.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/wildfirebill-unraid/unraid-scripts/main/icon.svg</Icon>
+  <WebPage>https://github.com/wildfirebill-unraid/unraid-scripts</WebPage>
+  <Forum>https://forums.unraid.net/topic/123457-wildfirebill-unraid-scripts-support/</Forum>
+  <Discord>https://discord.gg/unraid</Discord>
+</CommunityApplications>
